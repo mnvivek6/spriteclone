@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first-nav{
+
+    width: 100%;
+    height: 90px;
+    background-color: #009b4e;
+    position: fixed;
+    margin-top: -91px;
+   
+}
+.first-logo{
+    width: 72px;
+    height: 50px;
+    margin-top: 19px;
+    margin-left: 43px;
+    float: left;
+    
+}
+.nav-contents{
+   
+    float: left;
+    margin-top: 34px;
+}
+.first-content{
+
+    text-decoration: none;
+    margin-left: 60px;
+    color: #ffff;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    font-style: italic;
+    margin-top: 1px;
+}
+.first-img{
+    margin-top: 91px
+}
+.frst-img1{
+    width: 100%;
+    height: 455px;
+    margin-top: -1px;
+
+}
+.sing-up{
+    width: 100%;
+    height: 80px;
+    background-color: #dc3545;
+    margin-top: -4px;
+}
+
+.learn-more-button{
+    width: 175px;
+    height: 50px;
+    margin-top: -92px;
+    margin-left: 284px;
+}
+
+.learn-more{
+    width: 185px;
+    height: 50px;
+    margin-top: -110px;
+    margin-left: -20px;
+    border: solid;
+    border-color: white;
+    color: white;
+    background-color: #dc3545;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    font-style: italic;
+    font-size: unset;
+    border-radius: 4px;
+   
+   
+}
+.sing-up-div{
+    margin-top: 42px;
+    margin-left: -434px;
+    padding-top: 29px;
+    font-family: sans-serif;
+    color: #fff;
+    font-weight: inherit;
+    text-align: center;
+    font-size: smaller;
+    letter-spacing: 1px;
+}
+.sng-up-button{
+    margin-left: 837px;
+    padding-top: -15px;
+    margin-top: -37px;
+    width: 206px;
+    height: 49px;
+    font-family: fantasy;
+    font-size: x-large;
+    font-style: italic;
+    color: #ffff;
+    background-color: black;
+    border: ridge;
+}
+.sing-up-button{
+    margin-top: -46px;
+}
+.second-part{
+    width: 100%;
+    height: 483px;
+    background-color: #ffff;
+    margin-top: 171px;
+}
+.heading1{
+    font-family: fantasy;
+    font-weight: inherit;
+    font-style: italic;
+    letter-spacing: 2px;
+    font-size: x-large;
+}
+.paragraph{
+    font-style: normal;
+    font-family: sans-serif;
+    font-weight: initial;
+    font-size: smaller;
+}
+.heading{
+    margin-left: 297px;
+    padding-top: 54px;
+}
+.black-panther-img{
+
+    width: 100%;
+    height: 400px;
+    background-color: #009b4e;
+    margin-top: 50px;
+}
+.black-panther{
+    width: 50%;
+    height: 430px;
+   
+}
+.bottle-img{
+    width: 50%;
+    height: 430px;
+    float: right;
+}
+.bottom{
+    width: 100%;
+    height: 600px;
+    background-color: #009b4e;
+}
+.bottom-logo{
+    margin-top: 124px;
+    margin-left: 182px;
+}
+.bottom-c-w-u{
+    margin-left: 367px;
+    margin-top: -100px;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: unset;
+    font-style: italic;
+    color: #ffff;
+}
+.social-media{
+  
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    transition: 0.8s;
+    margin-left: 449px;
+    margin-top: 26px;
+    width: 189px;
+    letter-spacing: 2px;
+}
+.social-media:hover{
+    color: black;
+}
+.prodect-list{
+    margin-left: 873px;
+    margin-top: -129px;
+}
+.list-prdcts{
+    list-style: none;
+    margin-left: 840px;
+    margin-top: 36px;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: larger;
+    font-size: larger;
+    font-weight: normal;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.products{
+    margin-top: -94px;
+    margin-left: 819px;
+    font-family: fantasy;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: normal;
+    color: white;
+    letter-spacing: 1px;
+}
+.social-media1{
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    transition: 0.8s;
+    margin-left: 449px;
+    margin-top: -2px;
+    width: 189px;
+    letter-spacing: 2px;
+    margin-left: 921px;
+    padding-top: 27px;
+}
+.foott-2{
+    text-align: center;
+    margin-top: 155px;
+    font-family: fantasy;
+    font-style: italic;
+    letter-spacing: 1px;
+    font-weight: 100;
+    font-size: smaller;
+}
+.footer-link{
+    color: #fff;
+    color: white;
+    text-decoration: none;
+}
+
